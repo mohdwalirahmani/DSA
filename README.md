@@ -5,12 +5,12 @@ Welcome to my DSA repository, where I document my journey of learning and implem
 This repository contains my solutions, notes, and implementations of various DSA concepts in [your programming language, e.g., Python, C++, Java]. It serves as a learning resource and a way to track my progress. <br>
 
 <br>📂 Folder Structure</p>
-Arrays & Strings – Basic operations, sorting, searching
-Linked Lists – Single, Double, Circular Linked Lists
-Stacks & Queues – Implementation, Applications
-Recursion & Backtracking – Problems & Techniques
-Trees & Graphs – Traversal, BFS, DFS, Shortest Path Algorithms
-Dynamic Programming – Memoization, Tabulation
+Arrays & Strings – Basic operations, sorting, searching <br>
+Linked Lists – Single, Double, Circular Linked Lists<br>
+Stacks & Queues – Implementation, Applications<br>
+Recursion & Backtracking – Problems & Techniques<br>
+Trees & Graphs – Traversal, BFS, DFS, Shortest Path Algorithms<br>
+Dynamic Programming – Memoization, Tabulation<br>
 Sorting & Searching – QuickSort, MergeSort, Binary Search <br>
 
 <br>🏆 Goals</p>
