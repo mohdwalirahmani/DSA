@@ -14,8 +14,8 @@ Dynamic Programming – Memoization, Tabulation<br>
 Sorting & Searching – QuickSort, MergeSort, Binary Search <br>
 
 <br>🏆 Goals</p>
-✔ Solve at least X problems per week
-✔ Implement important algorithms from scratch
+✔ Solve at least X problems per week <br>
+✔ Implement important algorithms from scratch<br>
 ✔ Participate in coding challenges (LeetCode, CodeChef, etc.) <br>
 
 <br>📖 Resources </p> 
